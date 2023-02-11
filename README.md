@@ -4,7 +4,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
+<code>🧑‍💻 Languages: JavaScript, Java, C++</code>
 <code>📦 Tech stack: React, Angular</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Lancelotovich](https://telegram.me/Lancelotovich)</code>
